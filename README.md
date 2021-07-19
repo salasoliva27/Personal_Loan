@@ -20,3 +20,7 @@ Data Dictionary
 * CD_Account: Does the customer have a certificate of deposit (CD) account with the bank? 
 * Online: Do customers use internet banking facilities?
 * CreditCard: Does the customer use a credit card issued by any other Bank (excluding All life Bank)?
+
+METHODS USED:
+1. Logistic Regression
+2. Decision Tree
